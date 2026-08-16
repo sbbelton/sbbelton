@@ -1,6 +1,6 @@
 # Hi, I'm Sam
 
-I am an incoming fourth-year Computer Science student at the University of Calgary interested in software development, data, and building practical applications.
+I am an incoming fourth-year Computer Science student at the University of Calgary interested in software development, data, and building practical applications. I am also an Independent Music Producer with several production credits on Billboard charting records.
 
 ## 📂 Projects
 
