@@ -16,7 +16,7 @@ I am a fourth-year Computer Science student at the University of Calgary interes
 ## ⚙️ Technical Skills
 
 **Languages:**  
-Python • Java • C • JavaScript • HTML • CSS
+Python • Java • C • SQL • HTML • CSS
 
 **Libraries & Frameworks:**  
 JavaFX • TensorFlow • Pandas • NumPy
@@ -29,7 +29,6 @@ VS Code • IntelliJ IDEA • PyCharm • Figma • Canva
 
 ## 📖 Currently Learning
 
-- SQL
 - Databases
 - Web development
 - Software development practices
