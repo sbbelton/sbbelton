@@ -1,8 +1,8 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Sam)](https://git.io/typing-svg)
 
-Fourth-year Computer Science student at the University of Calgary with experience in software development, machine learning, and collaborative application development. I enjoy building practical software and expanding my experience across full-stack development, backend systems, databases, and software engineering.
+Fourth-year Computer Science student at the University of Calgary focused on software development and building practical applications across full-stack systems, backend development, and machine learning.
 
-I'm currently part of the University of Calgary Science Co-op Program and seeking software development internship/co-op opportunities. Feel free to reach out!
+I'm currently in the University of Calgary Science Co-op Program and looking for software development internship/co-op opportunities. Feel free to connect with me on LinkedIn.
 
 ## Projects
 
