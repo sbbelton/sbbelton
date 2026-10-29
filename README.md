@@ -5,7 +5,7 @@ I'm a fourth-year Computer Science student at the University of Calgary and an i
 
 On the technical side, I'm interested in full-stack development, backend systems, and building practical applications. I'm currently enrolled in the **Science Co-op Program** and looking for software development internship opportunities.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sambbelton)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sbbelton)
 
 ## Projects
 
